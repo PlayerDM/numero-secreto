@@ -11,8 +11,7 @@ O projeto consiste em um jogo para que o usuário deve descobrir o número secre
 - `index.html`: Arquivo principal HTML que contém a estrutura da página web.
 - `style.css`: Arquivo CSS para estilização da página.
 - `app.js`: Arquivo JavaScript com a lógica da aplicação.
-- `img/`: Diretório contendo imagens utilizadas no projeto, se aplicável.
-- `docs/`: Diretório opcional para documentação adicional, se houver.
+- `img/`: Diretório contendo imagens utilizadas no projeto.
 
 ## Como Utilizar
 
